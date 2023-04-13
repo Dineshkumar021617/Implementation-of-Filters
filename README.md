@@ -72,7 +72,6 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-
 iv) Using Median Filter
 ```Python
 median=cv2.medianBlur(image2,13)
