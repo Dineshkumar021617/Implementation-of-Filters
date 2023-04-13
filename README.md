@@ -120,7 +120,6 @@ plt.show()
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-
 i) Using Averaging Filter
 
 ![ss1](https://user-images.githubusercontent.com/75234807/167802026-26fd761a-9d77-40c0-bf3a-184aedd9bf9f.png)
